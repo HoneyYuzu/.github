@@ -1,4 +1,4 @@
-# Infinity
+# Honey Yuzu
 
 Welcome to **L&Y Studio** – a creative hub where we develop innovative projects, including **web apps and Unity games**.  
 
