@@ -1,13 +1,13 @@
 # Honey Yuzu
 
-Welcome to **L&Y Studio** – a creative hub where we develop innovative projects, including **web apps and Unity games**.  
+Welcome to **Honey Yuzu** – a creative hub where we develop innovative projects, including **web apps and Unity games**.  
 
 ## 🚀 About Us  
-L&Y Studio was founded by **Lut Lat Aung** and **Yel Lin** to build high-quality software solutions using modern technologies like **React, Firebase and Unity**.  
+Honey Yuzu Studio was founded by **Lut Lat Aung**, **Yel Lin** and **Ye Myat Moe** to build high-quality software solutions using modern technologies like **React, Next.js, Supabase, MongoDB and Unity**.  
 
 ## 🔥 Our Future Projects  
 We will focus on:  
-- **Web Applications** – Built with **React, Firebase, Supabase and modern frameworks**  
+- **Web Applications** – Built with **React, Next.js, Supabase and modern frameworks**  
 - **Mobile Apps** – Developed using **Unity**  
 - **Game Development** – Creating small but exciting **Unity games**  
 
@@ -26,7 +26,7 @@ We will primarily use:
 We're open to collaboration! If you're interested in working with us, feel free to reach out.  
 
 ## 📫 Contact Us  
-- **GitHub:** [github.com/L&Y-Studio](https://github.com/L&Y-Studio)  
+- **GitHub:** [github.com/HoneyYuzu](https://github.com/HoneyYuzu)  
 - **Email:** [lutlataung03@gmail.com]
 
 Let’s build something amazing together! 🚀  
