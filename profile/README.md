@@ -3,7 +3,7 @@
 Welcome to **Honey Yuzu** – a creative hub where we develop innovative projects, including **web apps and Unity games**.  
 
 ## 🚀 About Us  
-Honey Yuzu Studio was founded by **Lut Lat Aung**, **Yel Lin** and **Ye Myat Moe** to build high-quality software solutions using modern technologies like **React, Next.js, Supabase, MongoDB and Unity**.  
+Honey Yuzu Studio was founded by **[Lut Lat Aung](https://github.com/Lut-Lat-Aung)**, **[Yel Lin](https://github.com/YelLin21)** and **[Ye Myat Moe](https://github.com/YeMyat144)** to build high-quality software solutions using modern technologies like **React, Next.js, Supabase, MongoDB and Unity**.  
 
 ## 🔥 Our Future Projects  
 We will focus on:  
