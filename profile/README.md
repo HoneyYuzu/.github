@@ -26,7 +26,8 @@ We will primarily use:
 We're open to collaboration! If you're interested in working with us, feel free to reach out.  
 
 ## 📫 Contact Us  
-- **GitHub:** [github.com/HoneyYuzu](https://github.com/HoneyYuzu)  
-- **Email:** [lutlataung03@gmail.com]
+- **Linkedin:** [Click to follow on Linkedin](https://www.linkedin.com/company/honey-yuzu/)
+- **Instagram:** [Click to follow on Instagram](https://instagram.com/officialhoneyyuzu/)
+- **Email:** [honeyyuzuofficial@gmail.com]
 
 Let’s build something amazing together! 🚀  
